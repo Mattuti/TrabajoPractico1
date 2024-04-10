@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(to bottom left, purple, pink);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+}
+h4{
+    font-size: 16px;
+    text-align: justify;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+.texto{
+    position: relative;
+    top:-13%;
+}
+.contenedor{
+    background-color: rgb(255, 233, 233);
+    position: relative;
+    border: black 5px solid;
+    border-radius: 15px;
+    width: 450px;
+    height: 600px;
+
+}
+.perfil-cont{
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top:-10%;
+}
+.perfil{
+    width: 100px;
+    border: 5px solid #999;
+    border-radius: 50%;
+
+}
+.fondo{
+    width: 450px;
+    height: 200px;
+    border-radius: 10px;
+}
+.cont-boton{
+    justify-content: center;
+    text-align: center;
+}
+.boton{
+    width: 70px;
+}
+.botonn{
+    width: 45px;
+}
+.botonnn{
+    width: 40px;
+}
